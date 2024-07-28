@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-<<<<<<< HEAD
-
-=======
-"""Starts a Flask web application.
-
+"""
+0-hello_route Module
+Starts a Flask web application.
 The application listens on 0.0.0.0, port 5000.
 Routes:
     /: Displays 'Hello HBNB!'
@@ -21,4 +19,3 @@ def hello_hbnb():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0")
->>>>>>> 9b815418d088aa5be751a7b2f209b136d5b0523a
